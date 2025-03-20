@@ -29,7 +29,7 @@ export const projectsData = [
     name: "Portfolio",
     description: "A basic portfolio",
     date: "2022-08-22",
-    demoLink: "https://esimo13portfolio.netlify.app/",
+    demoLink: "https://esimoportfolio.netlify.app/",
   },
   {
     id: 3,
